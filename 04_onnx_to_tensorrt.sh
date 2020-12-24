@@ -1,0 +1,1 @@
+onnx2trt ./outputs/resnet_18.onnx -o ./outputs/resnet_18.plan
